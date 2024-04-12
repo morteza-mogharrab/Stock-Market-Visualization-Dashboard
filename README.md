@@ -2,7 +2,7 @@
 
 ## Description
 
-On this Interactive Stock Market Visualization project, we're revolutionizing stock market analysis with dynamic, user-friendly visualizations. Our platform provides real-time access to market data, empowering users to make informed decisions and uncover trends effortlessly. Join us as we redefine how you engage with the stock market.
+Uncover market trends and make smarter decisions with ease. Our interactive stock market visualization platform offers a dynamic and user-friendly experience with real-time data at your fingertips. 
 
 ![Screenshot](Screenshot.jpg)
 
