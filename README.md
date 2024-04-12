@@ -71,3 +71,4 @@ On this Interactive Stock Market Visualization project, we're revolutionizing st
 
 - Morteza Mogharrab
 - Solehin Islam
+- Ameer Un Nisa
